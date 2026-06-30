@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0130/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0130/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真太上八素真經修習功業妙訣
+  date: '2015-08-29 02:58:22.706863'
+  source:
+    repository: kanripo
+    path: KR5g0130
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0130_000-HFL.yaml, hash: 'sha256:af803e8f4e513414ac04ef80d195767756f40b96e681ddbc5e08d6dd5f619da1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0130_000-HFL.markers.yaml, hash: 'sha256:f73a1587540cbb67fcfeda093bb19934576646ce3c8e3a4dca5532bce08f1d5b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0130_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 3048
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:0cff615d5d4e95d40456a6638401b48181d30cedcc45f3b92c7a6678e104f17d
